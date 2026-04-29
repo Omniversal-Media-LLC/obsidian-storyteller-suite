@@ -1,0 +1,16 @@
+name: obsidian-storyteller-suite
+id: ari:cloud:compass:98f239cf-fa04-4e2c-9e89-76b3496a9eb7:component/a3221818-8bba-4a60-9c87-7791b8e38c12/f7dcc3ec-9a55-4639-9e74-6088482e1c58
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Omniversal-Media-LLC/obsidian-storyteller-suite
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
